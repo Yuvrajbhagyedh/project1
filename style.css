@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+    background: #ECE9E6;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FFFFFF, #ECE9E6);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FFFFFF, #ECE9E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.ahead {
+    border-radius: 4px;
+   list-style: none;
+   background: #2980b9;  /* fallback for old browsers */
+   background: -webkit-linear-gradient(to right, #2c3e50, #2980b9);  /* Chrome 10-25, Safari 5.1-6 */
+   background: linear-gradient(to right, #2c3e50, #2980b9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   
+   
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    width: 100%;
+    
+  
+ 
+}
+lord-icon{
+   
+    margin-top: 32px;
+   
+    margin-right: 33px;
+    margin-bottom: 27px; ;
+}
+main{
+
+    font-size: 19%;
+}
+ .aim
+ {
+    width: 690px;
+    margin-left: 23px;
+    box-shadow: 0 0  10px black;
+    transition: .2s;
+   margin-top: 0px;
+    border-radius: 13px;
+}
+h1{
+    margin-bottom: 90px;
+}
+
+.gain{
+    margin-top: 40px;
+    border-radius: 35px;
+    margin-left: 350px;
+    align-items: center;
+    width: 730px;
+    border: 2px solid black;
+    margin-bottom: 5px;
+}
+input{
+    font-size:23px;
+margin-bottom: 5px;
+    margin-left: 23px;
+    border: 0px;
+    background: transparent;
+    outline: 0px;
+}
+.r img{
+    margin-left: 30px;
+    }
+    p{
+        color: rgb(110, 169, 199);
+        justify-content: space-between;
+        font-family: 'Palanquin Dark', sans-serif;
+        font-size: 39px;
+        
+        text-align: right;
+        margin-right: 50px;
+        margin-left: 10px;
+    }
+
